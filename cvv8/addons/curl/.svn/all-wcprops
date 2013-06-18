@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2223/convert/addons/curl
+END
+CurlJS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2192/convert/addons/curl/CurlJS.cpp
+END
+fossil-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2193/convert/addons/curl/fossil-test.js
+END
+CurlJS.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2190/convert/addons/curl/CurlJS.h
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2202/convert/addons/curl/test.js
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2223/convert/addons/curl/Makefile
+END
